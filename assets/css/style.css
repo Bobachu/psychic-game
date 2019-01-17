@@ -1,0 +1,30 @@
+body {
+    font-family: 'Righteous', cursive;
+    color: white;
+    background-image: url("../images/fancy-cushion.png");
+    background-repeat: repeat;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#wins {
+    color: darkgreen;
+    font-size: 30px;
+}
+
+#loses {
+    color: darkred;
+    font-size: 30px;
+}
+
+#guesses {
+    font-size: 40px;
+}
